@@ -40,6 +40,9 @@ This project was created as a **CSS masterpiece** — to demonstrate how far pur
 ## 📸 Screenshots
 
 <img src="img/screenshots/ss1.png" width="600">
+<img src="assets/screenshot2.png" width="600">
+<img src="assets/screenshot3.png" width="600">
+
 
 
 ---
