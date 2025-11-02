@@ -39,7 +39,8 @@ This project was created as a **CSS masterpiece** — to demonstrate how far pur
 
 ## 📸 Screenshots
 
-*(Add screenshots of your homepage, menu, or responsive layouts here if you like.)*
+<img src="img/screenshots/ss1.png" width="600">
+
 
 ---
 
