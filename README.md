@@ -46,7 +46,7 @@ This project was created as a **CSS masterpiece** — to demonstrate how far pur
 ## 👨‍💻 Author
 
 **Kartik Sharma**  
-[GitHub Profile](https://github.com/yourusername)  
+[GitHub Profile](https://github.com/kartik9077)  
 *Frontend Developer | Creative Web Designer*
 
 ---
